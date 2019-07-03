@@ -363,7 +363,7 @@
                         <Xlint/>
                     </compilerArguments>
                     <verbose>true</verbose>
-                    <source>6</source>
+                    <source>8</source>
                     <target>1.6</target>
                     <showWarnings>true</showWarnings>
                 </configuration>
